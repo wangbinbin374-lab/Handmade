@@ -1,0 +1,22 @@
+{
+  "short_name": "手作面包",
+  "name": "Handmade 手作面包发酵记录",
+  "description": "专为烘焙爱好者设计的面包发酵记录与成本计算工具",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#ffe5ec",
+  "theme_color": "#ff8b94",
+  "display": "standalone",
+  "orientation": "portrait"
+}
